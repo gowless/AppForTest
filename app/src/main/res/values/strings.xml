@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AppForTest</string>
+    <string name="tab_text_1">0ne</string>
+    <string name="tab_text_2">Two</string>
+    <string name="title_activity_main">AppForTest</string>
+    <string name="label">e-mail</string>
+    <string name="label2">password</string>
+    <string name="register">Register</string>
+    <string name="label3">phone number</string>
+    <string name="hello_blank_fragment">hello1</string>
+    <string name="filter">Log Out</string>
+</resources>
